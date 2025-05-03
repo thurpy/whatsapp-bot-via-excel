@@ -28,6 +28,7 @@ cd whatsapp-bot
 pip install -r requirements.txt
 
 3. Uso
+
 from bot import WhatsappBot
 
 bot = WhatsappBot('caminho/para/planilha.xlsx', 'NomeDaAba')
